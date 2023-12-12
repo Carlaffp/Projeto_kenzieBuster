@@ -1,5 +1,10 @@
 # M5 - Kenzie Buster
 
+
+## Visão Geral:
+
+Desenvolvimento de uma API para gerenciamento de vendas de filmes, abrangendo autenticação, permissões, relacionamentos entre usuários e filmes, validações personalizadas, serializers, proteção de rotas com JWT, tabela pivô personalizada, campos de escolha e paginação com APIView.
+
 ## Preparando ambiente para execução dos testes
 
 1. Verifique se os pacotes **pytest**, **pytest-testdox** e/ou **pytest-django** estão instalados globalmente em seu sistema:
